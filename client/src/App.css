@@ -5,7 +5,7 @@
   display: block;
 }
 .header-container {
-  background-color: #dbdbdb; /* צבע שמנת */
+  background-color: #f4e8e8; /* צבע שמנת */
   padding: 10px 20px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   border-radius: 8px;
