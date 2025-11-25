@@ -22,7 +22,7 @@ const LayOut = ()=>{
 <Outlet>
    
     <main>
-        
+        hi Shani
     </main>
 </Outlet>
 </div>
